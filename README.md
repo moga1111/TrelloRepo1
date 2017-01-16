@@ -9,7 +9,8 @@ You can JUnit-test the project by
   * Import into idea.
   * Provide the required system parameters.
   * Run > Edit Configs > VM options (replace with yours).
-  * Run module.
+  * Run module
+  
   ![alt text](http://pichoster.net/images/2017/01/16/Screenshotfrom2017-01-1612-46-13.png "Example")
   
   * After downloading TrellRest.jar, run the command line with 5 parameters.
