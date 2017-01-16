@@ -5,7 +5,7 @@ You can JUnit-test the project by
   * Importing it as Intellj Idea project.
   * Command line by running the included jar.
   
-## Inporting as Intellj project is straigt forward step
+## Importing as Intellj project is straigt forward step
   * Import into idea.
   * Provide the required system parameters.
   * Run > Edit Configs > VM options (replace with yours).
