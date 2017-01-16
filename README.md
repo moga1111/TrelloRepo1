@@ -1,11 +1,11 @@
 # Trello Rest Api Sample
-Sample Api project that access Trello to retrieve and modify cards
+Sample Api project that accesses Trello to retrieve and modify cards
 
 You can JUnit-test the project by
 * Importing it as Intellj Idea project.
 * Command line by running the included jar.
   
-## Importing as Intellj project is straigt forward step
+## Importing as Intellj project is straight forward step
 * Import into idea.
 * Provide the required system parameters.
 * Run > Edit Configs > VM options (replace with yours).
